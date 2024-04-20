@@ -1,2 +1,5 @@
 test/
 components/
+index-*.html
+*index.html
+styleDone.css
